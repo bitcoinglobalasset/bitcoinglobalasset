@@ -1,7 +1,7 @@
 BitcoinGlobalAsset integration/staging tree
 ================================
 
-http://www.bitcoinglobalasset.org
+http://www.bitcoinglobalasset.info
 
 Copyright (c) 2009-2013 BitcoinGlobalAsset Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. BitcoinGlobalAsset is also the name of the open
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the BitcoinGlobalAsset client software, see http://www.bitcoinglobalasset.org.
+the BitcoinGlobalAsset client software, see http://www.bitcoinglobalasset.info
 
 License
 -------
